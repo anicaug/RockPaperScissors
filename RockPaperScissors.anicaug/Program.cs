@@ -10,6 +10,9 @@ namespace RockPaperScissors.anicaug
     {
         static void Main(string[] args)
         {
+            //YouTube learning. MARCH 2019.
+            //CONCEPTS: while loops, switch cases, nesting
+
             string inputPlayer, inputCPU;
             int randomInt;
             
